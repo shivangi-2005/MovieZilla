@@ -32,9 +32,9 @@ const Footer = () => {
                     <span style={{color:"white", fontWeight: "bold"}}>© 2022 MovieZilla. All rights reserved.</span>
                     <br />
                     <br />
-                    <span style={{color:"white", fontWeight: "bold"}}>Developed by: <a style={{color:"white", textDecoration: "none", fontWeight: "bold"}} href="https://github.com/ashraydeep96" target="_blank" rel="noreferrer">Ashray Deep Bajpai</a></span>
+                    <span style={{color:"white", fontWeight: "bold"}}>Developed by: <a style={{color:"white", textDecoration: "none", fontWeight: "bold"}} href="https://github.com/shivangi-2005" target="_blank" rel="noreferrer">Shivangi Maurya</a></span>
                     <br />
-                    <span style={{color:"white", fontWeight: "bold"}}>Contact: <a style={{color:"white", textDecoration: "none", fontWeight: "bold"}} href="mailto:ashraydeepbajpai77@gmail.com">ashraydeepbajpai77@gmail.com</a></span>
+                    <span style={{color:"white", fontWeight: "bold"}}>Contact: <a style={{color:"white", textDecoration: "none", fontWeight: "bold"}} href="mailto:shivangi99maurya@gmail.com">shivangi99maurya@gmail.com</a></span>
                     <br />
                 </div>
                 <div className="socialIcons">
